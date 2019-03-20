@@ -1,10 +1,11 @@
-### Train Scheduler
+# Train Scheduler
 
 http://mrhopkins.github.io/train-scheduler
 
-In this assignment, you'll create a train schedule application that incorporates Firebase to host arrival and departure data. Your app will retrieve and manipulate this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
+In this assignment...
 
-### Instructions
+you'll create a train schedule application that incorporates Firebase to host arrival and departure data. Your app will retrieve and manipulate this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
+
 
 * Make sure that your app suits this basic spec:
   
@@ -22,3 +23,6 @@ In this assignment, you'll create a train schedule application that incorporates
   
   * Users from many different machines must be able to view same train times.
 
+### Check me out on LinkedIn!
+
+https://linkedin.com/in/matthewrhopkins/
